@@ -1,4 +1,4 @@
-**此檔案需與c_react前端檔案(https://github.com/paulhuang1102/e_cms_frontend)使用**
+**此檔案需與c_react前端檔案(https://github.com/paulhuang1102/e_cms_frontend) 使用**
 
  1.先在電腦中安裝MYSQL 並確認能正常使用
  
