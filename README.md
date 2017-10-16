@@ -24,6 +24,6 @@
  
  9.將前端檔案匯出dist夾後 替代預設dist空白資料夾
  
- ***為方便創造使用者而設定了特殊路由 測試完記得刪掉
+ 為方便創造使用者而設定了特殊路由 測試完記得刪掉
  
- app.use('/creator', require('./controllers/creator.controller'));**
+ app.use('/creator', require('./controllers/creator.controller'));
